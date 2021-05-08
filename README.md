@@ -13,8 +13,10 @@ Uygulamanın açılış ekranında bulunan elementlere ait kodları içermektedi
 <img src="https://user-images.githubusercontent.com/24692670/117543568-13101900-b026-11eb-8fdd-8788330289ce.png" width="180" height="335">
 
 # MapScreen.js
-Uygulamada kullanılan Google Maps hizmetine ait konfigürasyon kodlarını içermektedir.
 <img src="https://user-images.githubusercontent.com/24692670/117543581-2327f880-b026-11eb-9671-ec3c624ffdb0.png" width="180" height="335">
+
+Uygulamada kullanılan Google Maps hizmetine ait konfigürasyon kodlarını içermektedir.
+
 
 # customMapStyle.json
 Uygulamada kullanılan haritanın stilini belirleyen JSON dosyasıdır.
