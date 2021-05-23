@@ -1,6 +1,7 @@
 # Topla Mobile App Introductory Video/ISL 465E
 https://youtu.be/gHGsB89bcBE
-<img src="https://user-images.githubusercontent.com/24692670/119265379-265ae100-bbef-11eb-9804-46cce2e41756.png" width="401,6" height="236,2">
+
+<img src="https://user-images.githubusercontent.com/24692670/119265379-265ae100-bbef-11eb-9804-46cce2e41756.png" width="803,2" height="472,4">
 
 # Topla
 Uygulmaya ait tasarım ve kodları içermektedir.
