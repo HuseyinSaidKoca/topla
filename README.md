@@ -1,6 +1,7 @@
 
 # Topla
 Uygulmaya ait tasarım ve kodları içermektedir.
+https://youtu.be/gHGsB89bcBE
 
 # App.js
 Uygulamanın ana kodudur. Uygulamada sayfa yönledirmeleri için kulllanılan TabNavigator ve açılış animasyonunu içermektedir.
