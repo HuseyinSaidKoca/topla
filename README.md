@@ -1,7 +1,8 @@
+# Topla Mobile App Introductory Video
+https://youtu.be/gHGsB89bcBE
 
 # Topla
 Uygulmaya ait tasarım ve kodları içermektedir.
-https://youtu.be/gHGsB89bcBE
 
 # App.js
 Uygulamanın ana kodudur. Uygulamada sayfa yönledirmeleri için kulllanılan TabNavigator ve açılış animasyonunu içermektedir.
